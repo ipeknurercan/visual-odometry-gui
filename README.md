@@ -45,13 +45,16 @@ python main.py
 ## 🖼️ Screenshots
 
 ### 🛠 Calibration Tab
-![Calibration Tab](screenshots/calibration_tab.jpeg)
+![calibration_tab](https://github.com/user-attachments/assets/56243fee-7672-4fa8-8942-d86cb800b934)
+
 
 ### 📊 Test Tab
-![Test Tab](screenshots/test_tab.jpeg)
+![test_tab](https://github.com/user-attachments/assets/44cd3325-d5b5-426c-8fe7-cfadcef7dc9b)
+
 
 ### 🧾 Logs Tab
-![Logs Tab](screenshots/logs_tab.jpeg)
+![logs_tab](https://github.com/user-attachments/assets/5c98760d-658a-4ad2-bd73-b195cea63630)
+
 
 > You can find these images in the `screenshots/` folder.
 
