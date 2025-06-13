@@ -1,0 +1,35 @@
+{
+    "CameraIntrinsics": {
+        "FocalLength": [
+            1413.3,
+            1418.8
+        ],
+        "Skew": 0.0,
+        "PrincipalPoint": [
+            950.0639,
+            543.3796
+        ]
+    },
+    "RadialDistortion": [
+        -0.0091,
+        0.0666
+    ],
+    "TangentialDistortion": [
+        0.0,
+        0.0
+    ],
+    "ImageSize": [
+        1080,
+        1920
+    ],
+    "CalibrationSettings": {
+        "NumPatterns": 33,
+        "WorldUnits": "millimeters",
+        "EstimateSkew": 0,
+        "NumRadialDistortionCoefficients": 2,
+        "EstimateTangentialDistortion": 0
+    },
+    "AccuracyOfEstimation": {
+        "MeanReprojectionError": 0.645
+    }
+}
