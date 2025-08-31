@@ -72,7 +72,3 @@ visual-odometry-gui/
 
 ---
 
-## 👤 Author
-
-İpek Ercan – June 2025  
-This project was developed as part of a visual odometry system used in GPS-denied electronic warfare environments.
